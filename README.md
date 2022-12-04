@@ -16,11 +16,20 @@ Richard Schoen Personal Web Site
 https://www.richardschoen.net
 
 ## IBM i / AS/400
-Seiden Group - Open SOurce Consulting: PHP, Python, Node & RPG on IBM i  
+
+QShell on i - Useful CL commands to integrate RPG and CL with Open Source IBM i apps  
+https://www.github.com/richardschoen/qshoni
+
+Seiden Group - Open Source Consulting: PHP, Python, Node & RPG on IBM i  
 https://www.seidengroup.com  
 
-Midrange List  
+Midrange List  - Online IBM i discussion forums  
 https://www.midrange.com  
+
+Ryver - IBM i Open Source Forum  
+https://ibmioss.ryver.com
+
+
 
 ## Software Development/Useful Utilities
 Notepad++ - Windows Editor  
