@@ -3,7 +3,7 @@ This is my list of useful web links.
 
 Feel free to suggest your favorite web links to add to the list.  
 
-Add your favoriate link as an issue or feel free to email it to me: richard@richardschoen.net
+Add your favorite link as an issue or feel free to email it to me: richard@richardschoen.net
 
 ## Richard Schoen Sites
 iForgit - IBM i based git client  
@@ -41,7 +41,7 @@ https://www.worldtimebuddy.com
 10 Minute Mail - Temporary 10 minute email addresses  
 https://10minutemail.com
 
-Squoosh - Make images smaller using best-in-class codecs right in the browser
+Squoosh - Make images smaller using best-in-class codecs right in the browser  
 https://squoosh.app
 
 Screely - Turn screenshots in to mockups  
