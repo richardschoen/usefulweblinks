@@ -79,6 +79,18 @@ https://icons8.com/upscaler
 Kanboard - a self-hosted KanBan board  
 https://github.com/madzadev/kanboard
 
+## dotnet / .net / C# /ASP.Net
+
+Code Maze    
+https://code-maze.com  
+
+Libhunt - locate libraries  
+https://www.libhunt.com  
+
+Spectre Console .Net Library  
+https://spectreconsole.net
+
+
 
 
 ## Misc/New/Uncategorized
