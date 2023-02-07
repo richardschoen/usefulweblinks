@@ -90,8 +90,13 @@ https://www.libhunt.com
 Spectre Console .Net Library  
 https://spectreconsole.net
 
+## Periodicals / Blogs / Newletters  
 
+Code Project  
+https://www.codeproject.com   
 
+Csharp Digest - C#  
+https://csharpdigest.net
 
 ## Misc/New/Uncategorized
 
