@@ -131,6 +131,8 @@ RestSharp - Sharp REST API
 
 SeriLog - Logging   
 
+NLOG - Logging
+
 MahApps Metro UI - UI Librray for WPF   
 
 NAudio - Midi Audio Library
