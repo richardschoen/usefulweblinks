@@ -92,21 +92,52 @@ Humanizer - Human-readable data formatting
 
 Jint - JavaScript interpreter for .NET
 
- Refit - Type-safe REST client
+Refit - Type-safe REST client
 
 MiniProfiler - Performance profiling
 
-Quartz.NET - Job scheduling
+Quartz.NET - Job scheduling   
 
-GhostScript.Net
+GhostScript.Net  
 
-PDFSharp
+PDFSharp   
 
-iText
+iText   
 
-FastReports
+FastReports   
 
-SQLite.Net
+SQLite.Net  
+
+Bogus - Test data   
+
+RestSharp - Sharp REST API   
+
+SeriLog - Logging   
+
+MahApps Metro UI - UI Librray for WPF   
+
+NAudio - Midi Audio Library
+
+MailKit - Email API   
+https://github.com/jstedfast/MailKit   
+
+Swashbuckle - API documentations   
+
+AutoMapper - object to object mapper   
+
+SaasKit - Create multitenant applications   
+https://github.com/saaskit/saaskit   
+
+ASP.Net CoreDiagnostics Healthchecks   
+https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks   
+
+CacheManager - Open Source Cache   
+https://github.com/MichaCo/CacheManager   
+
+Dapper - Simple object mapper - data/orm
+https://github.com/StackExchange/Dapper
+
+
 
 
 
