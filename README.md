@@ -74,6 +74,48 @@ http://makethumbnails.com
 Upscaler - Enhance image resolution with AI without losing quality.  
 https://icons8.com/upscaler
 
+## DotNet Libraries
+LiteDB - Embedded NoSQL database   
+https://www.litedb.org   
+
+CSVHelper   
+https://joshclose.github.io/CsvHelper   
+
+AngleSharp - HTML parsing and manipulation   
+https://github.com/AngleSharp/AngleSharp   
+
+MediatR - Mediator pattern implementation
+
+GenFu - Test data generation
+
+Humanizer - Human-readable data formatting
+
+Jint - JavaScript interpreter for .NET
+
+ Refit - Type-safe REST client
+
+MiniProfiler - Performance profiling
+
+Quartz.NET - Job scheduling
+
+GhostScript.Net
+
+PDFSharp
+
+iText
+
+FastReports
+
+SQLite.Net
+
+
+
+
+
+
+
+
+
 
 ## GitHub Projects
 Kanboard - a self-hosted KanBan board  
