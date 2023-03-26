@@ -15,6 +15,25 @@ https://www.mobigogo.net
 Richard Schoen Personal Web Site  
 https://www.richardschoen.net
 
+## Shortlist of My Most Used Apps
+Visual Studio   
+VS Code  
+Rational Developer for i - RDI   
+Notepad++   
+GreenShot - Screen shots      
+MS Office
+Libreoffice
+Help and Manual - Documentation    
+Markdown Monster - Markdown Editing    
+Camtasia - Recording and Editing Demo Videos   
+Audacity - Audio recording   
+MobaXTerm - Terminal Software   
+IBM i Access - Access to IBM i systems
+MS OneNote
+RDP Cliebnt - Remote Desktop Access
+Draw.io - drawing app
+
+
 ## IBM i / AS/400
 
 QShell on i - Useful CL commands to integrate RPG and CL with Open Source IBM i apps  
@@ -28,8 +47,6 @@ https://www.midrange.com
 
 Ryver - IBM i Open Source Forum  
 https://ibmioss.ryver.com
-
-
 
 ## Software Development/Useful Utilities
 Notepad++ - Windows Editor  
