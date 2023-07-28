@@ -144,7 +144,7 @@ Swashbuckle - API documentations
 
 AutoMapper - object to object mapper   
 
-SaasKit - Create multitenant applications   
+SaasKit - Create multitenant application    
 https://github.com/saaskit/saaskit   
 
 ASP.Net CoreDiagnostics Healthchecks   
@@ -192,11 +192,11 @@ https://csharpdigest.net
 
 ## Education Sites
 
-Python for Everybody
-https://www.py4e.com  
+Python for Everybody   
+https://www.py4e.com   
 
-freeCodeCamp - Learning to Code  
-https://www.freecodecamp.org  
+freeCodeCamp - Learning to Code   
+https://www.freecodecamp.org   
 
 ## Misc/New/Uncategorized
 
