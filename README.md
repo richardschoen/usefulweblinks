@@ -190,6 +190,14 @@ https://www.codeproject.com
 Csharp Digest - C#  
 https://csharpdigest.net
 
+## Education Sites
+
+Python for Everybody
+https://www.py4e.com  
+
+freeCodeCamp - Learning to Code  
+https://www.freecodecamp.org  
+
 ## Misc/New/Uncategorized
 
 
