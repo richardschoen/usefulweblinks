@@ -1,9 +1,9 @@
 # Richard Schoen - List of Useful Web Links
 This is my list of useful web links.
 
-Feel free to suggest your favorite web links to add to the list.  
+```Feel free to suggest your favorite web links to add to the list.```
 
-Add your favorite link as an issue or feel free to email it to me: richard@richardschoen.net
+Add your favorite link as an issue, a pull request or feel free to email it to me: richard@richardschoen.net
 
 ## Richard Schoen Sites
 iForgit - IBM i based git client  
