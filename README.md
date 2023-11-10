@@ -52,7 +52,7 @@ Blog Site
 https://vengoal.blogspot.com
 
 IBM i Reference  - Michael Mayer  
-http://ibmireference.blogspot.com/
+http://ibmireference.blogspot.com 
 
 ## Software Development/Useful Utilities
 Notepad++ - Windows Editor  
