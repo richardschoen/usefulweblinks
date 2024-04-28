@@ -51,6 +51,9 @@ https://ibmioss.ryver.com
 Blog Site   
 https://vengoal.blogspot.com
 
+Craig Rutledge - JCRCMDS AS/400 Utilities  
+http://www.jcrcmds.com
+
 IBM i Reference  - Michael Mayer  
 http://ibmireference.blogspot.com 
 
