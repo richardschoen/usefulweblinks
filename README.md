@@ -162,15 +162,21 @@ https://github.com/MichaCo/CacheManager
 Dapper - Simple object mapper - data/orm
 https://github.com/StackExchange/Dapper
 
+## Icon Sites
+Lucide.  
+https://lucide.dev
 
+Icones.  
+https://icones.js.org/collection/logos
 
+Radix Icons. 
+https://www.radix-ui.com/icons
 
+Flaticon. 
+https://www.flaticon.com
 
-
-
-
-
-
+Material Icons
+https://mui.com/material-ui/material-icons/?query=S
 
 
 ## GitHub Projects
