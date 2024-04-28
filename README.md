@@ -163,19 +163,19 @@ Dapper - Simple object mapper - data/orm
 https://github.com/StackExchange/Dapper
 
 ## Icon Sites
-Lucide.  
+Lucide   
 https://lucide.dev
 
-Icones.  
+Icones  
 https://icones.js.org/collection/logos
 
-Radix Icons. 
+Radix Icons  
 https://www.radix-ui.com/icons
 
-Flaticon. 
+Flaticon  
 https://www.flaticon.com
 
-Material Icons
+Material Icons  
 https://mui.com/material-ui/material-icons/?query=S
 
 
