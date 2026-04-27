@@ -41,9 +41,10 @@ PHP CLI Examples
 https://github.com/richardschoen/phpcliexamples    
 
 IBM i ODBC Query Helper Utility - Windows App   
-https://github.com/richardschoen/MbIbmiOdbcQuery  
+https://github.com/richardschoen/MbIbmiOdbcQuery   
 
-
+IBM i C# ODBC Wrapper Class for DotNet (IBM i Access ODBC)    
+https://github.com/richardschoen/IbmiOdbcDataAccess       
 
 
 ## Shortlist of My Most Used Apps
