@@ -15,7 +15,7 @@ https://www.mobigogo.net
 Richard Schoen Personal Web Site  
 https://www.richardschoen.net
 
-## Richard Schoen Most Useful GitHub Repos
+## Richard Schoen My Most Useful GitHub Repos
 QShOni - QShell on i - Integrate RPG and CL with Open Source   
 https://github.com/richardschoen/qshoni   
 
@@ -34,8 +34,16 @@ https://github.com/richardschoen/ibmibashscripts
 SQL Samples for IBM i and Other Platforms     
 https://github.com/richardschoen/sqlsamples    
 
+RPG Coding Examples   
+https://github.com/richardschoen/rpgclcodingexamples   
+
+PHP CLI Examples   
+https://github.com/richardschoen/phpcliexamples    
+
 IBM i ODBC Query Helper Utility - Windows App   
-https://github.com/richardschoen/MbIbmiOdbcQuery      
+https://github.com/richardschoen/MbIbmiOdbcQuery  
+
+
 
 
 ## Shortlist of My Most Used Apps
