@@ -40,6 +40,9 @@ https://github.com/richardschoen/rpgclcodingexamples
 PHP CLI Examples   
 https://github.com/richardschoen/phpcliexamples    
 
+Python Examples  
+https://github.com/richardschoen/PythonSamples    
+
 IBM i ODBC Query Helper Utility - Windows App   
 https://github.com/richardschoen/MbIbmiOdbcQuery   
 
