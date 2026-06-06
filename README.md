@@ -1,6 +1,8 @@
 # Richard Schoen - List of Useful Web Links
 This is my list of useful web links.
 
+❗ This list is a major work in progress
+
 ```Feel free to suggest your favorite web links to add to the list.```
 
 Add your favorite link as an issue, a pull request or feel free to email it to me: richard@richardschoen.net
@@ -49,8 +51,27 @@ https://github.com/richardschoen/MbIbmiOdbcQuery
 IBM i C# ODBC Wrapper Class for DotNet (IBM i Access ODBC)    
 https://github.com/richardschoen/IbmiOdbcDataAccess       
 
+## My Favorite MacOS Apps
+[Notepad ++ for MacOS](https://nextpad.org)    
+[Techsmith Snagit Screen Capture/Recording and Camtasia Video Editing](https://www.techsmith.com)   
+
+## MacOS Apps Not Linked Yet
+SwitchResx
+Flux - Screen Dimming
+Greenshot
+VS Code
+Remote Desktop Manager 
+Windows App/Remote Desktop
+Dbeaver
+Draw.io
+IBM i Access
+RDI 9.8/9.9
+BBEdit
+CommanderOne
+
 
 ## Shortlist of My Most Used Apps
+Dbeaver
 Visual Studio   
 VS Code  
 Rational Developer for i - RDI   
